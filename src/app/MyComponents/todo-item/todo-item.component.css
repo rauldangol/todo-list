@@ -1,0 +1,19 @@
+.strike{
+    text-decoration: line-through;
+}
+ 
+.items{
+    text-align: center;
+    margin-top: 0.5rem;
+}
+
+hr{
+    width: 50%;
+    margin: 0px auto;
+}
+
+button
+{
+    margin-bottom: 0.5rem;
+    margin-top: 0.5rem;
+}
